@@ -65,15 +65,15 @@ Full step-by-step: **[`hardware/WIRING.md`](hardware/WIRING.md)**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="90%" valign="top">
 
 ### 🙂 For users — no coding
 
 1. Open the **[flash page](https://web.esphome.io/)** in **Chrome / Edge / Opera**.
 2. **Hold BOOT** while plugging in USB-C (flash mode).
-3. Click **Connect**, pick the port, upload file DasaiMochi-SuperMini-merged.bin, and **Flash**.
+3. Click **Connect**, pick the port, upload file **DasaiMochi-SuperMini-merged.bin** from Zip, and **Flash**.
 4. The bot makes a WiFi network: **`DasaiMochi-Setup`**.
 5. Join it → a setup page opens → enter WiFi + your AI key. 🍡
 
 </td>
-<td width="50%" valign="top">
+<td width="90%" valign="top">
