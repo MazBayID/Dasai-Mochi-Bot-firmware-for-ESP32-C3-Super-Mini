@@ -15,7 +15,7 @@
 
 ## 🔌 Wiring
 
-Everything runs at **3.3V**. Default pins live in [`config.h`](firmware/dasai_mochi_bot/config.h) — easy to change.
+Everything runs at **3.3V**. Default pins live in [`config.h`](firmware/WIRING.md) — easy to change.
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ Everything runs at **3.3V**. Default pins live in [`config.h`](firmware/dasai_mo
 </tr>
 </table>
 
-Full step-by-step: **[`hardware/WIRING.md`](hardware/WIRING.md)**
+Full step-by-step: **[`firmware/WIRING.md`](firmware/WIRING.md)**
 
 ---
 
